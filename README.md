@@ -18,9 +18,10 @@ if number<0:
 if numer ==0:
   print("0입니다.")
 ```
+https://cafe.naver.com/hicode
 
-
-
+[Hello코딩놀이터](https://cafe.naver.com/hicode)
+[구글](https://https://cafe.naver.com/hicode
 
 
 ## second
