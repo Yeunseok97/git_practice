@@ -7,7 +7,7 @@ multicampus git practice
 
 `function add(x,y) {return x+y}`
 
-```python
+``` python
 number = input("정수입력>")
 number = int(number)
 
